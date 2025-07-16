@@ -32,7 +32,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeun0612&show_icons=true&theme=ambient_gradient)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun0612&layout=compact&theme=ambient_gradient)  
 
-## :trophy: Baekjoon Solved Rank
+## :trophy: Algorithms
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sss1123634)](https://solved.ac/sss1123634)
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sss1123634)](https://solved.ac/sss1123634)
