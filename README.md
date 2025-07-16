@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SangEun's+Github!👋&fontSize=40)
+<div align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SangEun's+Github!👋&fontSize=40">
+</div>
+
+<div align="center">
+동국대학교 컴퓨터공학과 21학번 || "TFT Set 13 – Challenger Tier (Peak Rank: Top 257 on KR Server)"
+</div>
+
 ## :hammer_and_wrench: Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
@@ -55,7 +62,7 @@
 |:----------:|:----------:|:--------:|
 | 정보처리기사 | 한국산업인력공단 | 2025.06 |
 | CCNA | 시스코 시스템즈(Cisco Systems) | 2018.01 |
-| 리눅스마스터 2급 | (사)한국정보통신산업협회 | 2017.03 |
+| 리눅스마스터 (2급) | (사)한국정보통신산업협회 | 2017.03 |
 | 정보기기운용기능사 | 한국산업인력공단 | 2017.01 |
 | 네트워크관리사(2급) | 한국정보통신자격협회 | 2016.12 |
 | 정보처리기능사 | 한국산업인력공단 | 2016.03 |
@@ -65,5 +72,5 @@
 | 자격증 | 시행기관 | 취득일 |
 |:----------:|:----------:|:--------:|
 | TOEIC Speaking (IM3) | ETS (Educational Testing Service) | 2025.07 |
-| 지식재산능력시험 4급 | 한국발명진흥회 | 2022.06 |
-| ITQ A급 | 한국생산성본부 | 2016.10 |
+| 지식재산능력시험 (4급) | 한국발명진흥회 | 2022.06 |
+| ITQ (A급) | 한국생산성본부 | 2016.10 |
