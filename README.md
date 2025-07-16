@@ -41,7 +41,7 @@
 |:----------:|:----------:|:--------:|:----------:|:----------:|
 | [상담 LLM 모델 기반 초기상담 지원을 위한 AI 복지봇 구축](https://github.com/CSID-DGU/2024-1-CECD1-PM4-7) | LLM을 활용한 초기 상담 지원 AI 복지봇 | 2024.03 ~ 2024.12 | 동국대학교 | 2024 IN-JEJU Challenge 우수상, 2024년도 겨울 종합설계 결과발표회 최우수상 |
 
-## 💾 Research / Publications
+## 📄 Research / Publications
 | 논문명 | 설명 | 학회명 | 게제일 / 발표일 | 참고 |
 |:----------:|:----------:|:--------:|:----------:|:----------:|
 | [A Study on a Framework for Initial Counseling for Vulnerable Populations in Welfare Blind Spots Based on LLM](https://ieeexplore.ieee.org/document/11003300) | | KST 2025 (Knowledge and Smart Technology) | 2025.02 | |
