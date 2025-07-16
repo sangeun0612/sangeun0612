@@ -44,12 +44,13 @@
 ## 📄 Research / Publications
 | 논문명 | 설명 | 학회명 | 게제일 / 발표일 | 참고 |
 |:----------:|:----------:|:--------:|:----------:|:----------:|
-| [A Study on a Framework for Initial Counseling for Vulnerable Populations in Welfare Blind Spots Based on LLM](https://ieeexplore.ieee.org/document/11003300) | | KST 2025 (Knowledge and Smart Technology) | 2025.02 | |
-| 복지 상담에서의 STT 오류 교정: 파인튜닝을 통한 가능성 탐구 | | 사단법인 한국지능시스템학회 | 2024.11 | 2024년 추계학술대회 우수논문상 | |
- 
+| [A Study on a Framework for Initial Counseling for Vulnerable Populations in Welfare Blind Spots Based on LLM](https://ieeexplore.ieee.org/document/11003300) | | KST (Knowledge and Smart Technology) | 2025.02 | DOI: 10.1109/KST65016.2025.11003300 |
+| 복지 상담에서의 STT 오류 교정: 파인튜닝을 통한 가능성 탐구 | | 사단법인 한국지능시스템학회 | 2024.11 | 2024년 추계학술대회 우수논문상 |
+
 
 ## 📜 Certificates
-💻 전공
+- 전공
+  
 | 자격증명 | 시행기관 | 취득일 |
 |:----------:|:----------:|:--------:|
 | 정보처리기사 | 한국산업인력공단 | 2025.06 |
@@ -59,9 +60,10 @@
 | 네트워크관리사(2급) | 한국정보통신자격협회 | 2016.12 |
 | 정보처리기능사 | 한국산업인력공단 | 2016.03 |
 
-🗣️ 어학 및 기타
+- 어학 및 기타
+  
 | 자격증명 | 시행기관 | 취득일 |
 |:----------:|:----------:|:--------:|
-| TOEIC Speaking IM3 | ETS | 2025.07 |
-| 지식재산능력시험 |||
-| ITQ |||
+| TOEIC Speaking (IM3) | ETS (Educational Testing Service) | 2025.07 |
+| 지식재산능력시험 4급 | 한국발명진흥회 | 2022.06 |
+| ITQ A급 | 한국생산성본부 | 2016.10 |
