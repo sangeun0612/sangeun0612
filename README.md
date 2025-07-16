@@ -1,9 +1,11 @@
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SangEun's+Github!👋&fontSize=40">
 </div>
-
 <div align="center">
-동국대학교 컴퓨터공학과 21학번 || "TFT Set 13 – Challenger Tier (Peak Rank: Top 257 on KR Server)"
+<h3>🎓 동국대학교 컴퓨터공학과 21학번 </h3>
+
+<p><b>💎 TFT Set 13 – <span style="color:#d4af37;">Challenger Tier</span></b><br>
+<em>(Peak Rank: <b>Top 257</b> on KR Server)</em></p>
 </div>
 
 ## :hammer_and_wrench: Tech Stacks
