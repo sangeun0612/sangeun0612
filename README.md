@@ -48,12 +48,12 @@
 ## 💾 Projects
 | 프로젝트 | 프로젝트 설명 | 기간 | 주관처 | 비고 |
 |:----------:|:----------:|:--------:|:----------:|:----------:|
-| [상담 LLM 모델 기반 초기상담 지원을 위한 AI 복지봇 구축](https://github.com/CSID-DGU/2024-1-CECD1-PM4-7) | LLM을 활용한 초기 상담 지원 AI 복지봇 | 2024.03 ~ 2024.12 | 동국대학교 | 2024 IN-JEJU Challenge 우수상, 2024년도 겨울 종합설계 결과발표회 최우수상 |
+| [상담 LLM 모델 기반 초기상담 지원을 위한 AI 복지봇](https://github.com/CSID-DGU/2024-1-CECD1-PM4-7) | LLM을 도입한 복지봇 | 2024.03 ~ 2024.12 | 동국대학교 | 2024 IN-JEJU Challenge 우수상, 2024년도 겨울 종합설계 결과발표회 최우수상 |
 
 ## 📄 Research / Publications
-| 논문명 | 설명 | 학회명 | 게제일 / 발표일 | 비고 |
+| 논문명 | 설명 | 학회명 | 게제일 | 비고 |
 |:----------:|:----------:|:--------:|:----------:|:----------:|
-| [A Study on a Framework for Initial Counseling for Vulnerable Populations in Welfare Blind Spots Based on LLM](https://ieeexplore.ieee.org/document/11003300) | | KST (Knowledge and Smart Technology) | 2025.02 | DOI: 10.1109/KST65016.2025.11003300 |
+| [A Study on a Framework for Initial Counseling for Vulnerable Populations in Welfare Blind Spots Based on LLM](https://ieeexplore.ieee.org/document/11003300) | | KST (Knowledge and Smart Technology) | 2025.02 ||
 | 복지 상담에서의 STT 오류 교정: 파인튜닝을 통한 가능성 탐구 | | 한국지능시스템학회 | 2024.11 | 2024년 추계학술대회 우수논문상 |
 
 
