@@ -1,4 +1,12 @@
 # 👋 sangeun0612's github
+## :octocat: Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeun0612&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun0612&layout=compact&theme=ambient_gradient)  
+## :trophy: Baekjoon Solved Rank
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sss1123634)](https://solved.ac/sss1123634)
+<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sss1123634)](https://solved.ac/sss1123634)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=sss1123634&theme=warm)
 ## :hammer_and_wrench: Tech Stacks
 ### 🧠 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -14,14 +22,3 @@
 ### 🛠️ Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-## :octocat: Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sangeun0612&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangeun0612&layout=compact&theme=ambient_gradient)  
-## :trophy: Baekjoon Solved Rank
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sss1123634)](https://solved.ac/sss1123634)
-<br>
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sss1123634)](https://solved.ac/sss1123634)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=sss1123634&theme=warm)
