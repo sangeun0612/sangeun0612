@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SangEun's+Github!👋&fontSize=40">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=E2E8F0&height=200&section=header&text=Welcome+to+SangEun's+Github!👋&fontSize=40">
 </div>
 <div align="center">
 <h3>🎓 동국대학교 컴퓨터공학과 21학번 </h3>
