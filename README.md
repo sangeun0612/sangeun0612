@@ -53,7 +53,7 @@
 ## 📄 Research / Publications
 | 논문명 | 학회명 | 게제일 | 파일 | 비고 |
 |:----------:|:----------:|:--------:|:----------:|:----------:|
-| [A Study on a Framework for Initial Counseling for Vulnerable Populations in Welfare Blind Spots Based on LLM](https://ieeexplore.ieee.org/document/11003300) | | KST (Knowledge and Smart Technology) | 2025.02 ||
+| [A Study on a Framework for Initial Counseling for Vulnerable Populations in Welfare Blind Spots Based on LLM](https://ieeexplore.ieee.org/document/11003300) | KST (Knowledge and Smart Technology) | 2025.02 | | |
 | 복지 상담에서의 STT 오류 교정: 파인튜닝을 통한 가능성 탐구 | 한국지능시스템학회 | 2024.11 | [보기](./assets/STT_논문.pdf) | 2024년 추계학술대회 우수논문상 |
 | LLM 기반 취약 계층 초기 상담을 위한 대화 진행 및 요약 모델 연구 | 한국지능시스템학회 | 2024.11 | [보기](./assets/대화+요약모델_논문.pdf) | |
 | LLaMA 내부 표현 기반 레이어별 Jailbreak 탐지 성능 분석 | | | [보기](./assets/LLaMA_내부_표현_기반_레이어별_Jailbreak_탐지_성능_분석.pdf) | 개인 연구 |
